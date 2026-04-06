@@ -1,0 +1,22 @@
+jaharat-website/
+│
+├── index.html
+├── about.html
+├── collection.html
+├── contact.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── images/
+│   │   ├── hero-banner.jpg
+│   │   ├── necklace-1.jpg
+│   │   ├── pendant-1.jpg
+│   │   ├── nose-ring-1.jpg
+│   │   └── logo.png
+│   │
+│   └── icons/
+│       ├── instagram.svg
+│       └── cart.svg
+│
+└── README.md
